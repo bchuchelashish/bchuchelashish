@@ -1,44 +1,48 @@
-# Hi, I'm B Chuchel Ashish 👋
+# Hi, I'm Bachu Chuchel Ashish 👋
 
-**Full-Stack Developer @ EPAM Systems** · Hyderabad, India
+**Full-Stack Engineer (Python · React)** · Software Developer at **Logisoft IT Services** · Hyderabad, India
 
-I build web and mobile apps end to end with React, TypeScript, Node.js and Python, and at work I modernize enterprise BI and data platforms.
+Early-career full-stack engineer (B.Tech in AI & Data Science, K L University, 2024) with about two years of hands-on experience building production web apps with **Python, Django REST Framework, React and SQL**. I enjoy owning features end to end, from data model and REST APIs to UI.
 
-🚀 **Open to Full-Stack Developer roles** in India, Canada and Europe (France, Finland)
+🚀 **Open to Full-Stack Developer roles** in India, Canada and Europe
 
 ---
 
 ### 🛠️ Tech stack
 
-**Frontend:** React · TypeScript · JavaScript · React Native · HTML/CSS<br>
-**Backend:** Node.js · Express · Python · REST APIs<br>
-**Data & BI:** PySpark · Databricks · Power BI · Tableau · Snowflake · Domino Data Lab<br>
-**Mobile:** React Native · Kotlin (Android)<br>
-**Tools:** Git · GitHub · Docker · AWS
+**Languages:** Python · TypeScript · JavaScript · Java · SQL · C<br>
+**Backend & APIs:** Django · Django REST Framework · Node.js · Express · REST API design · Webhooks<br>
+**Frontend & Mobile:** React · Next.js · React Native · HTML · CSS<br>
+**Databases:** SQL (relational modelling) · MongoDB<br>
+**Tools:** Git · Postman · Figma · Vercel
 
 ---
 
-### 💼 What I do at EPAM
+### 💼 What I've built at work
 
-- Build pipelines that analyze and consolidate BI reports from Tableau, Power BI, Qlik, Spotfire, Cognos and OBIEE before migrating them to Power BI
-- Work on enterprise data-platform migrations (Domino Data Lab, NetApp storage)
-- Build internal web tools for migration planning and execution
+- **Habitat — multi-tenant hotel management SaaS:** delivered end to end (data model, Django REST Framework API, React admin console, guest booking site). Two-tier role-based access control with fail-closed tenant isolation, an 8-step onboarding/KYC wizard, and Razorpay payments with idempotent APIs and signature-verified webhooks.
+- **Chefgaa — online food ordering platform:** React customer web app, a real-time Kitchen Display System in React Native, and management modules in the Next.js owner portal.
+- **ZippyGo — AI-powered flight booking app:** set up the React Native project structure and base app.
 
 ---
 
-### 📌 Featured projects
+### 📌 Personal projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [CricCircle](https://github.com/ashishrockz/CricCircle) | Cricket scoring and community app | TypeScript |
-| [CricCircle-unified](https://github.com/ashishrockz/CricCircle-unified) | Unified sports platform (app + backend + admin) | TypeScript, Node.js |
-| [Zenforce](https://github.com/ashishrockz/Zenforce) | Full-stack app with Python backend and [TS frontend](https://github.com/ashishrockz/zenforce_frontend) | Python, TypeScript |
-| [job_scout_fe](https://github.com/ashishrockz/job_scout_fe) | Job search frontend | TypeScript |
-| [employee-management](https://github.com/ashishrockz/employee-management) | Employee management mobile app | React Native, TypeScript |
-| [KDS_Expeditor](https://github.com/ashishrockz/KDS_Expeditor) | Kitchen display system for restaurants | Kotlin |
+| Project | Stack |
+|---|---|
+| [employee-management](https://github.com/ashishrockz/employee-management): employee management app with leave applications (internship project) | React Native, TypeScript |
+| [CricCircle](https://github.com/ashishrockz/CricCircle): cricket app | TypeScript |
+| [CricCircle-unified](https://github.com/ashishrockz/CricCircle-unified): unified sports platform | TypeScript |
+| [job_scout_fe](https://github.com/ashishrockz/job_scout_fe): job search frontend | TypeScript |
+
+---
+
+### 🏅 Certifications
+
+Oracle Cloud Architect (Associate & Professional) · Microsoft Azure Fundamentals · Azure Data Engineer Associate
 
 ---
 
 ### 📫 Contact
 
-📧 b.chuchelashish03@gmail.com
+📧 b.chuchelashish03@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/b-chuchel-ashish-6a7b50201)
