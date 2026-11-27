@@ -33,8 +33,6 @@ Early-career full-stack engineer (B.Tech in AI & Data Science, K L University, 2
 | [employee-management](https://github.com/bchuchelashish/employee-management): employee management app with leave applications (internship project) | React Native, TypeScript |
 | [CricCircle](https://github.com/bchuchelashish/CricCircle): cricket app | TypeScript |
 | [CricCircle-unified](https://github.com/bchuchelashish/CricCircle-unified): unified sports platform | TypeScript |
-| [job_scout_fe](https://github.com/bchuchelashish/job_scout_fe): job search frontend | TypeScript |
-
 ---
 
 ### 🏅 Certifications
